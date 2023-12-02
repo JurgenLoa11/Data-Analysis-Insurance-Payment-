@@ -1,4 +1,4 @@
 # Data-Analysis-Insurance-Payment-
-Data Aanalisis Mengenai Pembayaran Asuransi Di Eropa
+Data Analysis Regarding Insurance Payments in Europe
 
-Membandingkan antara algoritma 1 dan algoritma yang lainnya. Dataset tersebut berisi tentang harga yang harus dikeluarkan oleh asuransi di Eropa untuk umur dan bmi tertentu. 
+Compare between and other algorithms. This dataset contains the prices that must be paid by insurance in Europe for a certain age and BMI.
